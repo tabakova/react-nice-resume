@@ -2,8 +2,8 @@
     host: "free.mboxhosting.com", //replace with your email provider
     port: 587,
     auth: {
-        user: "noreply@tabakova.tk", //replace with the email address
-        pass: "JW=g!Buk1Wx7tJW:" //replace with the password
+        user: "", //replace with the email address
+        pass: "" //replace with the password
     }
 });*/
 
