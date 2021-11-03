@@ -1,0 +1,188 @@
+{
+  "main": {
+    "name":"Welcome!",
+    "name2": "Tanya Tabakova",
+    "description":"My name is Tanya Tabakova and I am a Front-end developer. I use HTML, CSS, Vanilla JavaScript and JS libraries such as React to create web content",
+    "image":"profilepic.jpg",
+    "bio":"I love being involved in web development from start to finish. I'm experienced in HTML5, CSS3, Bootstrap 3 & 4, Wordpress, JavaScript libraries jQuery and my latest used technology - React.",
+    "contactmessage2":"Have a project for me? Think I'd be a good fit for your team? I'd love to hear from you, give me a shout by email or by using the form below if you'd like to get in contact with me.",
+    "contactmessage":"Warning: Contact form is not yet configured, please contact me via normal email. Thank you!",
+    "email": "tabakova.tanyat@gmail.com",
+    "phone": "(+359) 883 37 13 25",
+    "github":"",
+    "project":"",
+    "address":{
+      "name": "Tanya Tabakova",
+      "state":"Varna, Bulgaria"
+    },
+    "website": "https://tabakova.tk/",
+    "resumedownload":"files/CV-Tabakova.pdf",
+    "social":[
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/tanya-tabakova/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/tabakova",
+        "className":"fa fa-github"
+      },
+      {
+        "name":"facebook",
+        "url":"https://www.facebook.com/tabakova.tan",
+        "className":"fa fa-facebook"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"",
+    "education": [
+      {
+        "school": "Udacity",
+        "degree": "Google Developer Challenge Scholarship - Front-End Developer",
+        "graduated": "2018",
+        "description": ""
+      },
+      {
+        "school":"University of Economics Varna",
+        "degree":"Masters in IT Business Innovations",
+        "graduated":"2015",
+        "description":""
+      },
+      {
+        "school":"Varna Free University",
+        "degree":"Bachelors in Accounting and Control",
+        "graduated":"2011",
+        "description":""
+      }
+    ],
+    "work":[
+      {
+        "company":"Kavarna Municipality",
+        "title":"IT Support Specialist",
+        "years":"May 2018 - Present",
+        "description":"Windows OS administration - installing, upgrading and maintenance;",
+        "description1": "Administrating and maintaining Microsoft Active Directory Domain Services;",
+        "description2": "Executing weekly backups of software products databases;",
+        "description3": "Resolving IT issues for employees to the best of my knowledge;",
+        "description4": "Other duties, assigned by the Head of the IT Department.",
+        "description5": ""
+      },
+      {
+        "company":"Business Services and Technologies OOD",
+        "title":"Front-End / React Developer",
+        "years":"February 2020 - July 2020",
+        "description":"Technologies used - React, JavaScript (ES6), CSS3 (SASS), HTML5;",
+        "description1": "Worked on a project, based on ReactJS;",
+        "description2": "Created ReactJS components;",
+        "description3": "The development environment included Agile methodology, ReactJS, Jira, Git."
+      },
+      {
+        "company":"Valsoft Corporation",
+        "title":"Front-End Web Developer",
+        "years":"August 2019 - February 2020",
+        "description1": "Developed, implemented and maintained front end applications with HTML, CSS, and JavaScript, using today's best standards;",
+        "description2": "Configured, installed themes, plugins, widgets and general WordPress administration;",
+        "description3": "Provided development recommendations for all supported application technologies;",
+        "description4": "Cross-browser and multi-device testing and performance optimization;",
+        "description5": "Performed code walkthroughs and testing."
+      },
+      {
+        "company":"Prolope Bulgaria Ltd.",
+        "title":"Front-End Developer",
+        "years":"February 2017 - December 2017",
+        "description": "Technologies used - HTML5, CSS3 and JavaScript(ES6);",
+        "description1":"Created and customized fully responsible websites from mock-ups;",
+        "description2": "Frameworks and libraries used - Bootstrap & jQuery;",
+        "description3": "Designed and implemented UI components using Adobe Photoshop, Adobe Illustrator and Inkscape."
+      }
+    ],
+    "skills": [
+      {
+        "name":"HTML 5",
+        "level":"100%"
+      },
+      {
+        "name":"CSS 3 & SASS",
+        "level":"100%"
+      },
+      {
+        "name":"JavaScript (ES6)",
+        "level":"80%"
+      },
+      {
+        "name":"ReactJs",
+        "level":"50%"
+      },
+      {
+        "name": "Bootstrap 3 & 4",
+        "level": "100%"
+      },
+      {
+        "name": "WordPress",
+        "level": "80%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Arcade Game",
+        "category":"This is a project of a classic arcade game clone (like a Frogger game) accomplished as a part of Udacity Front-End Nanodegree and uses object-oriented JavaScript.",
+        "image":"arcade_game2.jpg",
+        "url":"https://tabakova.github.io/FEND-Arcade-Game-Project/"
+      },
+      {
+        "title":"Memory Game",
+        "category":"This project of a memory game app was accomplished as a part of Udacity Front-End Nanodegree. I used Vanilla JS to build this app.",
+        "image":"matching_game2.jpg",
+        "url":"https://tabakova.github.io/FEND-Matching-Game-Project/"
+      },
+      {
+        "title":"Panagro Ltd. website",
+        "category":"This project was created for a small agribussiness firm. It is build using the Bootstrap framework and the jQuery library.",
+        "image":"panagro.jpg",
+        "url":"http://panagro.eu3.biz/"
+      },
+      {
+        "title":"Blog Template",
+        "category":"This is a simple, but elegant blog template. It can be used with any type of blog and modified if it's necessary.",
+        "image":"blog-template2.jpg",
+        "url":"https://tabakova.github.io/awesome-blog-template/"
+      }
+    ],
+    "designProjects": [
+      {
+        "title":"Graphic Design project for a Jazz Event",
+        "category":"This poster was made for a jazz music event. My part in this project was to create the poster using Adobe Illustrator, with the design provided by another designer.",
+        "image":"music.jpg"
+      },
+      {
+        "title":"Graphic Design project",
+        "category":"This poster was made for practice purposes. It was created with Adobe Photoshop.",
+        "image":"geometric.jpg"
+      },
+      {
+        "title":"Graphic Design project",
+        "category":"Made for practice purposes. It was created with Adobe Illustrator.",
+        "image":"sleeping_fox.jpg"
+      },
+      {
+        "title":"Graphic Design project",
+        "category":"Made for practice purposes. It was created with Adobe Illustrator.",
+        "image":"awake_fox.jpg"
+      },
+      {
+        "title":"Graphic Design project",
+        "category":"Made for practice purposes. It was created with Adobe Photoshop.",
+        "image":"panda.jpg"
+      },
+      {
+        "title":"Graphic Design project",
+        "category":"This poster was made for practice purposes. It was created with Adobe Photoshop.",
+        "image":"urban.jpg"
+      }
+    ]
+  }
+}
